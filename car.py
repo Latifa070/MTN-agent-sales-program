@@ -1,3 +1,5 @@
+"A class that can be used to represent a car"
+
 class Car :
     def __init__(self, brand, model,year,color):
         self.brand = brand

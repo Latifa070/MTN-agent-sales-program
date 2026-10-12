@@ -11,14 +11,3 @@ class Restaurant:
     def open_restaurant(self):
         print(f"{self.restaurant_name} is open ")
 
-restaurant1 = Restaurant("Buka Restaurant", "Traditional West African cuisine")
-restaurant1.describe_restaurant()
-print(" ")
-
-
-restaurant2 = Restaurant(" Santoku", "Japanese cuisine ")
-restaurant2.describe_restaurant()
-
-print(" ")
-restaurant2 = Restaurant("Asanka Local Restaurant", "Traditional Ghanaian cuisine")
-restaurant2.describe_restaurant()
