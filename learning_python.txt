@@ -1,0 +1,3 @@
+In python you can just check the length of a set of data by using the 
+In python you can get the sum of a set of data by using the sum keyword
+In python you can type most of the instructions in plain english
